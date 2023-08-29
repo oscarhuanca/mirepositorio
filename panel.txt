@@ -1,0 +1,7 @@
+panel
+---
+-incluir el logo
+- opciones d eperfil y salir
+-bara de psioin lateral
+- el estado de al informacion de productos
+- pie de pagina
